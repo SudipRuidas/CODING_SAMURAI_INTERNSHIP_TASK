@@ -9,7 +9,7 @@ The entire project was orchestrated using Power BI, a dynamic and intuitive busi
 
 ## 💡 Insights & Findings:
 
-- Gender Breakdown: Attrition skewed with 140 males and 79 females.
+- Gender Breakdown: Attrition skewed with 150 males and 87 females.
 - Education Field Impact: Life Science recorded the highest attrition.
 - Age Group Dynamics: 26-35 age group experienced the highest attrition.
 - Overtime Impact: Attrition patterns correlated with overtime.
